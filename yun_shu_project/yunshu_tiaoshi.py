@@ -1,6 +1,7 @@
 #coding=utf-8
+
 import requests
-session=requests.session()
+#session=requests.session()
 #token='eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIiwianRpIjoiMCVpMk9fK05dYC52aCJ9.eyJqdGkiOiIwJWkyT18rTl1gLnZoIiwiaWF0IjoxNjE2MDU0OTc4LCJleHAiOjE2MTYxNDEzNzgsImlkIjo0NywibmFtZSI6Ilx1Njc0ZVx1NWI1MFx1NTE0OSJ9.'
 
 
