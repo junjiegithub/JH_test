@@ -3,7 +3,7 @@ import requests
 from requests.auth import HTTPBasicAuth
 
 b=[]
-#data_xshoppy=csv.reader(open(r"C:\Users\pp\Desktop\xshoppy_shop.csv","r",encoding='utf-8'))
+#data_xshoppy=csv.reader(open(r"C:\Users\pp\Desktop\xshoppy_shop.csv","r",encoding='utf-8'))。
 data_xshoppy=csv.reader(open(r"C:\Users\Administrator\Desktop\xshoppy_shop.csv","r",encoding='utf-8'))
 
 for ii in data_xshoppy:
