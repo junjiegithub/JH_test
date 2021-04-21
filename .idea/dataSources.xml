@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="test_gms" uuid="a9b9d62f-f5d7-41bd-bc13-a287a81bb90a">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://192.168.5.107:3306</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="test_oms" uuid="0e87255f-e8d4-44e8-bc99-cb1412fde03f">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://172.29.76.72:3320</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="test_ads" uuid="107f97bf-598d-48cb-b85a-c714787be715">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://172.29.76.100:3306</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="test_adm" uuid="54783edb-4048-4e81-b525-4880dc70bfeb">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://172.29.76.112:3306</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="test_os" uuid="56b4bf9e-c2a0-40c9-ad8c-7be06bc2a66d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://172.29.76.112:3306</jdbc-url>
+    </data-source>
+  </component>
+</project>
